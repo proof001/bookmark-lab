@@ -1,14 +1,15 @@
 {
-  "proposed": [
+  "proposed": [],
+  "skipped": [
     {
       "id": "2090486831137886703",
       "title": "crt.name — passive CT subdomain index",
       "url": "https://x.com/cryptoshan484/status/2090486831137886703",
       "date": "2026-09-04",
       "tech": "crt.name",
-      "slug": "crt-name-scout"
+      "slug": "crt-name-scout",
+      "reason": "owner moved on without approving"
     }
   ],
-  "skipped": [],
   "built": []
 }
