@@ -10,8 +10,9 @@
       "tech": "crt.name",
       "slug": "crt-name-scout",
       "approved": "2026-09-09",
-      "status": "pr-open",
+      "status": "built",
       "pr": "https://github.com/proof001/bookmark-lab/pull/2",
+      "merged": "https://github.com/proof001/bookmark-lab/commit/c95111fa98188e4f42a46bd7543a9bbae1a5ad0e",
       "built_by": "Studio",
       "built_at": "2026-09-09"
     }
