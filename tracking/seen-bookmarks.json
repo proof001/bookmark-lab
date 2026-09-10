@@ -1,5 +1,15 @@
 {
-  "proposed": [],
+  "proposed": [
+    {
+      "id": "2095229930376507598",
+      "title": "NVIDIA SkillSpector — agent skill security scanner",
+      "url": "https://x.com/startupideaspod/status/2095229930376507598",
+      "date": "2026-09-10",
+      "tech": "NVIDIA SkillSpector",
+      "slug": "skillspector-scout",
+      "repo": "https://github.com/NVIDIA/SkillSpector"
+    }
+  ],
   "skipped": [],
   "built": [
     {
