@@ -160,6 +160,7 @@ export default function App() {
                 value={apexInput}
                 onChange={(event) => setApexInput(event.target.value)}
                 placeholder="example.com"
+                autoFocus
                 autoCapitalize="none"
                 autoCorrect="off"
                 spellCheck={false}
