@@ -1,6 +1,7 @@
 {
   "proposed": [],
-  "skipped": [
+  "skipped": [],
+  "built": [
     {
       "id": "2090486831137886703",
       "title": "crt.name — passive CT subdomain index",
@@ -8,8 +9,8 @@
       "date": "2026-09-04",
       "tech": "crt.name",
       "slug": "crt-name-scout",
-      "reason": "owner moved on without approving"
+      "approved": "2026-09-09",
+      "status": "building"
     }
-  ],
-  "built": []
+  ]
 }
