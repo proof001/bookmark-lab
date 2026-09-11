@@ -41,8 +41,9 @@
       "repo": "https://github.com/mvanhorn/last30days-skill",
       "approved": "2026-09-11",
       "tweak": "HN + Reddit + GitHub only; no Polymarket/X",
-      "status": "pr-open",
+      "status": "built",
       "pr": "https://github.com/proof001/bookmark-lab/pull/4",
+      "merged": "https://github.com/proof001/bookmark-lab/commit/ecca1eba9fd798fa6e617ac6443809b802ab3fb1",
       "built_by": "Studio",
       "built_at": "2026-09-11"
     }
