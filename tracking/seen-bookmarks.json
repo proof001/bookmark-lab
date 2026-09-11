@@ -1,15 +1,5 @@
 {
-  "proposed": [
-    {
-      "id": "2092629365045559547",
-      "title": "last30days — multi-source engagement-ranked research skill",
-      "url": "https://x.com/mvanhorn/status/2092629365045559547",
-      "date": "2026-09-11",
-      "tech": "last30days",
-      "slug": "last30days-scout",
-      "repo": "https://github.com/mvanhorn/last30days-skill"
-    }
-  ],
+  "proposed": [],
   "skipped": [],
   "built": [
     {
@@ -40,6 +30,19 @@
       "merged": "https://github.com/proof001/bookmark-lab/commit/8be2b0a4699f10a87538f77cf394520ecf0d953a",
       "built_by": "Studio",
       "built_at": "2026-09-10"
+    },
+    {
+      "id": "2092629365045559547",
+      "title": "last30days — multi-source engagement-ranked research skill",
+      "url": "https://x.com/mvanhorn/status/2092629365045559547",
+      "date": "2026-09-11",
+      "tech": "last30days",
+      "slug": "last30days-scout",
+      "repo": "https://github.com/mvanhorn/last30days-skill",
+      "approved": "2026-09-11",
+      "tweak": "HN + Reddit + GitHub only; no Polymarket/X",
+      "status": "building",
+      "built_by": "Studio"
     }
   ]
 }
