@@ -112,7 +112,7 @@ function secondSentence(topic: string, board: Hit[]): string {
 export function synthesize(topic: string, hits: Hit[]): Synthesis | null {
   if (hits.length === 0) return null
   const board = hits.slice(0, 8)
-  const paragraph = `${firstSentence(topic, board)}${secondSentence(topic, board)}`
+  const paragraph = `${firstSentence(topic, hits)}${secondSentence(topic, board)}`
   const citations = board.slice(0, 3).map((hit) => ({
     source: hit.source,
     title: hit.title,

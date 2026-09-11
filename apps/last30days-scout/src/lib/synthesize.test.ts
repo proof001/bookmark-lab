@@ -50,3 +50,18 @@ test('writes a paragraph that cites the leader and mixed sources', () => {
   expect(result?.citations).toHaveLength(3)
   expect(result?.citations[0]?.source).toBe('hn')
 })
+
+test('source mix counts the full board, not only the top eight', () => {
+  const githubHeavy = Array.from({ length: 8 }, (_, index) =>
+    hit('github', `repo ${index} tooling`, 5000 + index, {
+      primaryLabel: 'stars',
+      secondaryLabel: 'forks',
+    }),
+  )
+  const reddit = hit('reddit', 'runtime install notes', 20, {
+    primaryLabel: 'rss-rank',
+  })
+  const result = synthesize('bun', [...githubHeavy, reddit])
+  expect(result?.paragraph).toContain('GitHub (8)')
+  expect(result?.paragraph).toContain('Reddit (1)')
+})
