@@ -1,5 +1,15 @@
 {
-  "proposed": [],
+  "proposed": [
+    {
+      "id": "2092629365045559547",
+      "title": "last30days — multi-source engagement-ranked research skill",
+      "url": "https://x.com/mvanhorn/status/2092629365045559547",
+      "date": "2026-09-11",
+      "tech": "last30days",
+      "slug": "last30days-scout",
+      "repo": "https://github.com/mvanhorn/last30days-skill"
+    }
+  ],
   "skipped": [],
   "built": [
     {
