@@ -25,8 +25,9 @@
       "slug": "skillspector-scout",
       "repo": "https://github.com/NVIDIA/SkillSpector",
       "approved": "2026-09-10",
-      "status": "pr-open",
+      "status": "built",
       "pr": "https://github.com/proof001/bookmark-lab/pull/3",
+      "merged": "https://github.com/proof001/bookmark-lab/commit/8be2b0a4699f10a87538f77cf394520ecf0d953a",
       "built_by": "Studio",
       "built_at": "2026-09-10"
     }
