@@ -10,11 +10,15 @@
       "tech": "crt.name",
       "slug": "crt-name-scout",
       "approved": "2026-09-09",
-      "status": "built",
+      "status": "deployed",
       "pr": "https://github.com/proof001/bookmark-lab/pull/2",
       "merged": "https://github.com/proof001/bookmark-lab/commit/c95111fa98188e4f42a46bd7543a9bbae1a5ad0e",
       "built_by": "Studio",
-      "built_at": "2026-09-09"
+      "built_at": "2026-09-09",
+      "deploy_url": "https://crt-name-scout.vercel.app",
+      "deploy_host": "vercel",
+      "deployed_by": "Studio",
+      "deployed_at": "2026-09-14"
     },
     {
       "id": "2095229930376507598",
@@ -45,11 +49,15 @@
       "repo": "https://github.com/mvanhorn/last30days-skill",
       "approved": "2026-09-11",
       "tweak": "HN + Reddit + GitHub only; no Polymarket/X",
-      "status": "built",
+      "status": "deployed",
       "pr": "https://github.com/proof001/bookmark-lab/pull/4",
       "merged": "https://github.com/proof001/bookmark-lab/commit/ecca1eba9fd798fa6e617ac6443809b802ab3fb1",
       "built_by": "Studio",
-      "built_at": "2026-09-11"
+      "built_at": "2026-09-11",
+      "deploy_url": "https://last30days-scout.vercel.app",
+      "deploy_host": "vercel",
+      "deployed_by": "Studio",
+      "deployed_at": "2026-09-14"
     }
   ]
 }
