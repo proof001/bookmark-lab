@@ -25,11 +25,15 @@
       "slug": "skillspector-scout",
       "repo": "https://github.com/NVIDIA/SkillSpector",
       "approved": "2026-09-10",
-      "status": "built",
+      "status": "deployed",
       "pr": "https://github.com/proof001/bookmark-lab/pull/3",
       "merged": "https://github.com/proof001/bookmark-lab/commit/8be2b0a4699f10a87538f77cf394520ecf0d953a",
       "built_by": "Studio",
-      "built_at": "2026-09-10"
+      "built_at": "2026-09-10",
+      "deploy_url": "https://skillspector-scout.vercel.app",
+      "deploy_host": "vercel",
+      "deployed_by": "Studio",
+      "deployed_at": "2026-09-14"
     },
     {
       "id": "2092629365045559547",
