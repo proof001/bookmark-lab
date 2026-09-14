@@ -9,4 +9,6 @@ bun install
 bun run dev
 ```
 
+Local `bun run dev` uses the Vite proxy. On Vercel, `vercel.json` rewrites `/api/hn` to Algolia, and thin `api/` serverless functions proxy `/api/reddit` and `/api/github` with the same User-Agent / GitHub headers (plain rewrites cannot set those outbound headers).
+
 See `PLAN.md` for scope, the score formula, and the GitHub unauthenticated Search API limit (10 req/min).

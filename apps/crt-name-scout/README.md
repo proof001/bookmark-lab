@@ -7,6 +7,6 @@ bun install
 bun run dev
 ```
 
-Paste an apex (`example.com`, `https://NeverSSL.com/path`). Results are proxied through Vite to avoid browser CORS, then filtered, sorted, copied, or exported as CSV/TXT.
+Paste an apex (`example.com`, `https://NeverSSL.com/path`). The client calls `/api/crt/...` (not crt.name directly). Locally that is the Vite `server.proxy`; on Vercel, `vercel.json` rewrites `/api/crt/:path*` to `https://crt.name/:path*` and keeps the query string. Results are then filtered, sorted, copied, or exported as CSV/TXT.
 
 See `PLAN.md` for scope.

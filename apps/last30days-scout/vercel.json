@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    {
+      "source": "/api/hn/:path*",
+      "destination": "https://hn.algolia.com/:path*"
+    }
+  ]
+}
