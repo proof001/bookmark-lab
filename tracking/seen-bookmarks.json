@@ -8,7 +8,10 @@
       "tech": "agentmemory",
       "slug": "agentmemory-scout",
       "repo": "https://github.com/rohitg00/agentmemory",
-      "homepage": "https://www.agent-memory.dev"
+      "homepage": "https://www.agent-memory.dev",
+      "status": "held",
+      "held_at": "2026-09-15",
+      "note": "Proof hold — not Approve/Skip; queued behind live trio; no Studio until unhold"
     }
   ],
   "skipped": [],
