@@ -1,5 +1,16 @@
 {
-  "proposed": [],
+  "proposed": [
+    {
+      "id": "2099400110589485058",
+      "title": "agentmemory — persistent memory for AI coding agents",
+      "url": "https://x.com/csaba_kissi/status/2099400110589485058",
+      "date": "2026-09-15",
+      "tech": "agentmemory",
+      "slug": "agentmemory-scout",
+      "repo": "https://github.com/rohitg00/agentmemory",
+      "homepage": "https://www.agent-memory.dev"
+    }
+  ],
   "skipped": [],
   "built": [
     {
