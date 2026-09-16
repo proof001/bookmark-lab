@@ -12,6 +12,16 @@
       "status": "held",
       "held_at": "2026-09-15",
       "note": "Proof hold — not Approve/Skip; queued behind live trio; no Studio until unhold"
+    },
+    {
+      "id": "2098316431142072692",
+      "title": "OmniGet — paste-link desktop downloader + media toolbox (yt-dlp, MCP)",
+      "url": "https://x.com/tom_doerr/status/2098316431142072692",
+      "date": "2026-09-16",
+      "tech": "OmniGet",
+      "slug": "omniget-scout",
+      "repo": "https://github.com/tonhowtf/omniget",
+      "status": "proposed"
     }
   ],
   "skipped": [],
