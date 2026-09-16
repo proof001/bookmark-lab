@@ -12,7 +12,9 @@
       "status": "held",
       "held_at": "2026-09-15",
       "note": "Proof hold — not Approve/Skip; queued behind live trio; no Studio until unhold"
-    },
+    }
+  ],
+  "skipped": [
     {
       "id": "2098316431142072692",
       "title": "OmniGet — paste-link desktop downloader + media toolbox (yt-dlp, MCP)",
@@ -21,10 +23,11 @@
       "tech": "OmniGet",
       "slug": "omniget-scout",
       "repo": "https://github.com/tonhowtf/omniget",
-      "status": "proposed"
+      "status": "skipped",
+      "skipped_at": "2026-09-16",
+      "note": "Proof Skip on explorer-only proposal; no Studio / no bookmark-lab work"
     }
   ],
-  "skipped": [],
   "built": [
     {
       "id": "2090486831137886703",
