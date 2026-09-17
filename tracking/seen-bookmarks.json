@@ -12,6 +12,18 @@
       "status": "held",
       "held_at": "2026-09-15",
       "note": "Proof hold — not Approve/Skip; queued behind live trio; no Studio until unhold"
+    },
+    {
+      "id": "2099804459157332130",
+      "title": "LibreTranslate — self-hosted open-source machine translation API",
+      "url": "https://x.com/RodmanAi/status/2099804459157332130",
+      "date": "2026-09-17",
+      "tech": "LibreTranslate",
+      "slug": "libretranslate-scout",
+      "repo": "https://github.com/LibreTranslate/LibreTranslate",
+      "homepage": "https://libretranslate.com",
+      "status": "proposed",
+      "note": "From RodmanAi 10-repos list; Cobalt skipped to avoid OmniGet Skip pattern"
     }
   ],
   "skipped": [
