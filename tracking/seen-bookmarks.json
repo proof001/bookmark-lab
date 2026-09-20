@@ -1,5 +1,103 @@
 {
-  "proposed": [],
-  "skipped": [],
-  "built": []
+  "proposed": [
+    {
+      "id": "2099400110589485058",
+      "title": "agentmemory — persistent memory for AI coding agents",
+      "url": "https://x.com/csaba_kissi/status/2099400110589485058",
+      "date": "2026-09-15",
+      "tech": "agentmemory",
+      "slug": "agentmemory-scout",
+      "repo": "https://github.com/rohitg00/agentmemory",
+      "homepage": "https://www.agent-memory.dev",
+      "status": "held",
+      "held_at": "2026-09-15",
+      "note": "Proof hold — not Approve/Skip; queued behind live trio; no Studio until unhold"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "2098316431142072692",
+      "title": "OmniGet — paste-link desktop downloader + media toolbox (yt-dlp, MCP)",
+      "url": "https://x.com/tom_doerr/status/2098316431142072692",
+      "date": "2026-09-16",
+      "tech": "OmniGet",
+      "slug": "omniget-scout",
+      "repo": "https://github.com/tonhowtf/omniget",
+      "status": "skipped",
+      "skipped_at": "2026-09-16",
+      "note": "Proof Skip on explorer-only proposal; no Studio / no bookmark-lab work"
+    },
+    {
+      "id": "2099804459157332130",
+      "title": "LibreTranslate — self-hosted open-source machine translation API",
+      "url": "https://x.com/RodmanAi/status/2099804459157332130",
+      "date": "2026-09-17",
+      "tech": "LibreTranslate",
+      "slug": "libretranslate-scout",
+      "repo": "https://github.com/LibreTranslate/LibreTranslate",
+      "homepage": "https://libretranslate.com",
+      "status": "skipped",
+      "skipped_at": "2026-09-17",
+      "note": "Proof Skip; no Studio / no bookmark-lab work"
+    }
+  ],
+  "built": [
+    {
+      "id": "2090486831137886703",
+      "title": "crt.name — passive CT subdomain index",
+      "url": "https://x.com/cryptoshan484/status/2090486831137886703",
+      "date": "2026-09-04",
+      "tech": "crt.name",
+      "slug": "crt-name-scout",
+      "approved": "2026-09-09",
+      "status": "deployed",
+      "pr": "https://github.com/proof001/bookmark-lab/pull/2",
+      "merged": "https://github.com/proof001/bookmark-lab/commit/c95111fa98188e4f42a46bd7543a9bbae1a5ad0e",
+      "built_by": "Studio",
+      "built_at": "2026-09-09",
+      "deploy_url": "https://crt-name-scout.vercel.app",
+      "deploy_host": "vercel",
+      "deployed_by": "Studio",
+      "deployed_at": "2026-09-14"
+    },
+    {
+      "id": "2095229930376507598",
+      "title": "NVIDIA SkillSpector — agent skill security scanner",
+      "url": "https://x.com/startupideaspod/status/2095229930376507598",
+      "date": "2026-09-10",
+      "tech": "NVIDIA SkillSpector",
+      "slug": "skillspector-scout",
+      "repo": "https://github.com/NVIDIA/SkillSpector",
+      "approved": "2026-09-10",
+      "status": "deployed",
+      "pr": "https://github.com/proof001/bookmark-lab/pull/3",
+      "merged": "https://github.com/proof001/bookmark-lab/commit/8be2b0a4699f10a87538f77cf394520ecf0d953a",
+      "built_by": "Studio",
+      "built_at": "2026-09-10",
+      "deploy_url": "https://skillspector-scout.vercel.app",
+      "deploy_host": "vercel",
+      "deployed_by": "Studio",
+      "deployed_at": "2026-09-14"
+    },
+    {
+      "id": "2092629365045559547",
+      "title": "last30days — multi-source engagement-ranked research skill",
+      "url": "https://x.com/mvanhorn/status/2092629365045559547",
+      "date": "2026-09-11",
+      "tech": "last30days",
+      "slug": "last30days-scout",
+      "repo": "https://github.com/mvanhorn/last30days-skill",
+      "approved": "2026-09-11",
+      "tweak": "HN + Reddit + GitHub only; no Polymarket/X",
+      "status": "deployed",
+      "pr": "https://github.com/proof001/bookmark-lab/pull/4",
+      "merged": "https://github.com/proof001/bookmark-lab/commit/ecca1eba9fd798fa6e617ac6443809b802ab3fb1",
+      "built_by": "Studio",
+      "built_at": "2026-09-11",
+      "deploy_url": "https://last30days-scout.vercel.app",
+      "deploy_host": "vercel",
+      "deployed_by": "Studio",
+      "deployed_at": "2026-09-14"
+    }
+  ]
 }
