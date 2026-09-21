@@ -12,6 +12,18 @@
       "status": "held",
       "held_at": "2026-09-15",
       "note": "Proof hold — not Approve/Skip; queued behind live trio; no Studio until unhold"
+    },
+    {
+      "id": "2100960005289807961",
+      "title": "AgentCloak — in-browser PII cloak before any AI",
+      "url": "https://x.com/peteryared/status/2100960005289807961",
+      "date": "2026-09-21",
+      "tech": "AgentCloak",
+      "slug": "agentcloak-scout",
+      "homepage": "https://agentcloak.ai",
+      "status": "proposed",
+      "proposed_at": "2026-09-21",
+      "note": "Daily X tech scout pick; pending Proof Approve/Tweak/Skip via Research Desk"
     }
   ],
   "skipped": [
