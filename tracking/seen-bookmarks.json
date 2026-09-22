@@ -24,6 +24,19 @@
       "status": "proposed",
       "proposed_at": "2026-09-21",
       "note": "Daily X tech scout pick; pending Proof Approve/Tweak/Skip via Research Desk"
+    },
+    {
+      "id": "2101890759880274431",
+      "title": "Pretty Mermaid — local Mermaid → SVG/PNG/ASCII (15 themes)",
+      "url": "https://x.com/tom_doerr/status/2101890759880274431",
+      "date": "2026-09-22",
+      "tech": "Pretty Mermaid",
+      "slug": "pretty-mermaid-scout",
+      "repo": "https://github.com/imxv/Pretty-mermaid-skills",
+      "engine": "https://github.com/lukilabs/beautiful-mermaid",
+      "status": "proposed",
+      "proposed_at": "2026-09-22",
+      "note": "Daily X tech scout pick; pending Proof Approve/Tweak/Skip via Research Desk"
     }
   ],
   "skipped": [
