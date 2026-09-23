@@ -1,6 +1,19 @@
 {
   "proposed": [
     {
+      "id": "2102002311035760643",
+      "title": "Mimik — browser workflow → annotated step-by-step guide",
+      "url": "https://x.com/tom_doerr/status/2102002311035760643",
+      "date": "2026-09-23",
+      "tech": "Mimik",
+      "slug": "mimik-scout",
+      "repo": "https://github.com/westpoint-io/mimik",
+      "homepage": "https://mimik.westpoint.io",
+      "status": "proposed",
+      "proposed_at": "2026-09-23",
+      "note": "Daily X tech scout pick; pending Approve/Tweak/Skip via Research Desk"
+    },
+    {
       "id": "2099400110589485058",
       "title": "agentmemory — persistent memory for AI coding agents",
       "url": "https://x.com/csaba_kissi/status/2099400110589485058",
