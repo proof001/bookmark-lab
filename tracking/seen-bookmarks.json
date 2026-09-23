@@ -14,18 +14,6 @@
       "note": "Proof hold — not Approve/Skip; queued behind live trio; no Studio until unhold"
     },
     {
-      "id": "2100960005289807961",
-      "title": "AgentCloak — in-browser PII cloak before any AI",
-      "url": "https://x.com/peteryared/status/2100960005289807961",
-      "date": "2026-09-21",
-      "tech": "AgentCloak",
-      "slug": "agentcloak-scout",
-      "homepage": "https://agentcloak.ai",
-      "status": "proposed",
-      "proposed_at": "2026-09-21",
-      "note": "Daily X tech scout pick; pending Proof Approve/Tweak/Skip via Research Desk"
-    },
-    {
       "id": "2101890759880274431",
       "title": "Pretty Mermaid — local Mermaid → SVG/PNG/ASCII (15 themes)",
       "url": "https://x.com/tom_doerr/status/2101890759880274431",
@@ -64,6 +52,18 @@
       "status": "skipped",
       "skipped_at": "2026-09-17",
       "note": "Proof Skip; no Studio / no bookmark-lab work"
+    },
+    {
+      "id": "2100960005289807961",
+      "title": "AgentCloak — in-browser PII cloak before any AI",
+      "url": "https://x.com/peteryared/status/2100960005289807961",
+      "date": "2026-09-21",
+      "tech": "AgentCloak",
+      "slug": "agentcloak-scout",
+      "homepage": "https://agentcloak.ai",
+      "status": "skipped",
+      "skipped_at": "2026-09-22",
+      "note": "Proof Skip; parked; no Studio / no bookmark-lab work"
     }
   ],
   "built": [
