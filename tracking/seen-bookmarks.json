@@ -1,6 +1,18 @@
 {
   "proposed": [
     {
+      "id": "2102341094071583027",
+      "title": "AI Copywriter — 33 AI-writing patterns (humanizer lineage)",
+      "url": "https://x.com/tom_doerr/status/2102341094071583027",
+      "date": "2026-09-24",
+      "tech": "AI Copywriter",
+      "slug": "ai-copywriter-scout",
+      "repo": "https://github.com/mikiarlo3/ai-copywriter",
+      "status": "proposed",
+      "proposed_at": "2026-09-24",
+      "note": "portable skill / Bun playground demo of 33 AI-writing patterns; Mimik alternate after Mimik Skip"
+    },
+    {
       "id": "2099400110589485058",
       "title": "agentmemory — persistent memory for AI coding agents",
       "url": "https://x.com/csaba_kissi/status/2099400110589485058",
