@@ -1,6 +1,20 @@
 {
   "proposed": [
     {
+      "id": "2102341094071583027",
+      "title": "AI Copywriter — 33 AI-writing patterns (humanizer lineage)",
+      "url": "https://x.com/tom_doerr/status/2102341094071583027",
+      "date": "2026-09-24",
+      "tech": "AI Copywriter",
+      "slug": "ai-copywriter-scout",
+      "repo": "https://github.com/mikiarlo3/ai-copywriter",
+      "status": "building",
+      "approved": "2026-09-24",
+      "proposed_at": "2026-09-24",
+      "building_at": "2026-09-24",
+      "note": "Proof Approve 2026-09-24 (Peasant Master / Recon); lean bookmark-lab demo — local mock transforms, not upstream 33-pattern API"
+    },
+    {
       "id": "2099400110589485058",
       "title": "agentmemory — persistent memory for AI coding agents",
       "url": "https://x.com/csaba_kissi/status/2099400110589485058",
