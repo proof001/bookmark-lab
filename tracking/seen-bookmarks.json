@@ -67,6 +67,18 @@
       "note": "Proof: not Studio / not bookmark-lab; route as shared skill for diagram/design lane (alongside diagram-design); hard gate ask Proof before use. Skill install owner TBD via Peasant Master."
     }
   ],
+  "building": [
+    {
+      "title": "OpenShorts — AI clip generator (long → viral 9:16)",
+      "tech": "OpenShorts",
+      "slug": "openshorts-scout",
+      "repo": "https://github.com/mutonby/openshorts",
+      "homepage": "https://www.openshorts.app/",
+      "approved": "2026-09-24",
+      "status": "building",
+      "note": "Proof direct Approve 2026-09-24 (desk), not from Daily X scout"
+    }
+  ],
   "built": [
     {
       "id": "2090486831137886703",
