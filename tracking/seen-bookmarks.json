@@ -8,9 +8,11 @@
       "tech": "AI Copywriter",
       "slug": "ai-copywriter-scout",
       "repo": "https://github.com/mikiarlo3/ai-copywriter",
-      "status": "proposed",
+      "status": "building",
+      "approved": "2026-09-24",
       "proposed_at": "2026-09-24",
-      "note": "portable skill / Bun playground demo of 33 AI-writing patterns; Mimik alternate after Mimik Skip"
+      "building_at": "2026-09-24",
+      "note": "Proof Approve 2026-09-24 (Peasant Master / Recon); lean bookmark-lab demo — local mock transforms, not upstream 33-pattern API"
     },
     {
       "id": "2099400110589485058",
